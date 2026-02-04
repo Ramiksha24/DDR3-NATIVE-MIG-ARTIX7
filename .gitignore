@@ -1,0 +1,19 @@
+# Vivado generated folders
+.runs/
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.gen/
+
+# Logs & temp
+*.log
+*.jou
+*.str
+
+# Windows junk
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
