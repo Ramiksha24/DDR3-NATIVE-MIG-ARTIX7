@@ -85,7 +85,7 @@ The controller FSM transitions through the following states:
 
 ##  Example Test Output
 
-
+output.png
 Using VIO, the following was observed:
 
 - `init_calib_complete = 1` → DDR3 successfully calibrated
